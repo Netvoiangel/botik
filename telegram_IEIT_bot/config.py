@@ -1,0 +1,1 @@
+token_for_tele = "5616007170:AAEGaORklx1lw9JqztOg94OkLlz6CjKSNqI"
