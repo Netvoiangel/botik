@@ -21,7 +21,7 @@ english_lang = "English 🇬🇧"
 back_interlang = "Назад / back"
 back_rus = "Назад"
 back_eng = "Back"
-
+a = 1
 
 #international part
 
